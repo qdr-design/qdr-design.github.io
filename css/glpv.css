@@ -63,8 +63,8 @@ body {
     min-width: 100%;
     padding-left: 0px;
     padding-right: 0px;
-    padding-top: 60px;
-    padding-bottom: 60px;
+    padding-top: 40px;
+    padding-bottom: 40px;
     background-image: url(../images/offer-bg@2x.png);
     background-position: 0% 0%;
     background-size: cover;
@@ -214,6 +214,11 @@ h6 {
     font-weight: 300;
     font-size: 25px;
 }
+
+.contact-margin {
+padding-top: 10px;
+	}
+
 
 /*Xtra Small View*/
 @media (max-width: 575.98px){
@@ -420,3 +425,4 @@ h6 {
 @media (min-width: 1200px) {
 	
 } 
+
